@@ -43,9 +43,18 @@ p {
   color: #272142;
 }
 
-. hero h2 {
+.hero h2 {
   font-family: var(--heading-font-family);
   font-weight: normal;
   line-height: 2;
   font-size: 24px;
+}
+
+.btn-branding {
+  background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
 }
