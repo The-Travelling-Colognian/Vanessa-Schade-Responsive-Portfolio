@@ -211,3 +211,72 @@ footer .contact-box p {
   line-height: 28px;
   text-align: justify;
 }
+/* Media Query */
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 42px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  /* Homepage */
+
+  .hero h1 {
+    font-size: 42px;
+    margin-top: 115px;
+  }
+
+  .hero h2 {
+    font-size: 20px;
+    padding: 5px 40px;
+    line-height: 25px;
+    margin-top: 10px;
+  }
+
+  .hero p {
+    margin-top: 20px;
+  }
+}
+
+.hero-btn-branding {
+  padding: 7px 20px;
+}
+
+.hero p,
+.hero-btn-branding {
+  font-size: 18px;
+}
+
+.location {
+  padding: 5px 30px;
+}
+
+.homepage-content-container {
+  padding-top: 150px;
+}
+
+.homepage-content h4 {
+  font-size: 30px;
+}
+
+.homepage-content,
+.featured-projects-container,
+.featured-projects-content {
+  padding: 0;
+}
+
+.homepage-about-me-button,
+.featured-projects-content {
+  text-align: center;
+}
+
+.homepage-about-me-button {
+  margin-top: 30px;
+}
+
+.featured-projects-header {
+  margin-top: 100px;
+}
