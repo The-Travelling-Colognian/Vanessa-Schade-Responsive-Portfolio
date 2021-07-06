@@ -282,6 +282,12 @@ p {
   margin-bottom: 60px;
 }
 
+.headshot {
+  margin: 0 auto;
+  width: 400px;
+  border: 10px solid white;
+}
+
 .about-paragraphs {
   line-height: 1.5;
   text-align: justify;
