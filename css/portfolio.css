@@ -288,6 +288,11 @@ p {
   border: 10px solid white;
 }
 
+.travel-blog {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+
 .about-paragraphs {
   line-height: 1.5;
   text-align: justify;
