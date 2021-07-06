@@ -293,6 +293,11 @@ p {
   text-decoration: none;
 }
 
+.travel-blog:hover {
+  color: var(--branding-color);
+  text-decoration: underline;
+}
+
 .about-paragraphs {
   line-height: 1.5;
   text-align: justify;
