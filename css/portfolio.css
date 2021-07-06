@@ -68,7 +68,7 @@ p {
 /* Buttons */
 .btn-branding {
   background-color: var(--branding-color);
-  border: 1px solid var(--branding-color);
+  border: 2px solid var(--branding-color);
   border-radius: 5px;
   color: white;
   font-size: 17px;
