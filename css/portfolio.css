@@ -200,6 +200,46 @@ p {
   line-height: 28px;
   text-align: justify;
 }
+
+/* About Page */
+
+/* My biography */
+.content-section {
+  padding: 120px 50px 0;
+}
+
+.content {
+  padding: 40px;
+  margin-bottom: 60px;
+}
+
+.headshot {
+  margin: 0 auto;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.travel-blog {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+
+.travel-blog:hover {
+  color: var(--branding-color);
+  text-decoration: underline;
+}
+
+.about-paragraphs {
+  line-height: 1.5;
+  text-align: justify;
+}
+
+/* My Work */
+
+img {
+  width: 560px;
+  height: 560px;
+}
 /* Media Query */
 
 @media (max-width: 900px) {
@@ -268,37 +308,4 @@ p {
 
 .featured-projects-header {
   margin-top: 100px;
-}
-
-/* About Page */
-
-/* My biography */
-.content-section {
-  padding: 120px 50px 0;
-}
-
-.content {
-  padding: 40px;
-  margin-bottom: 60px;
-}
-
-.headshot {
-  margin: 0 auto;
-  width: 400px;
-  border-radius: 20px;
-}
-
-.travel-blog {
-  color: var(--branding-color);
-  text-decoration: none;
-}
-
-.travel-blog:hover {
-  color: var(--branding-color);
-  text-decoration: underline;
-}
-
-.about-paragraphs {
-  line-height: 1.5;
-  text-align: justify;
 }
