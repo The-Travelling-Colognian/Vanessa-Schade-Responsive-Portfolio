@@ -244,11 +244,11 @@ p {
   margin-bottom: 70px;
 }
 
-.contact-content h1 {
+.contact-section h1 {
   margin-bottom: 50px;
 }
 
-.contact-content a {
+.contact-section a {
   color: var(--branding-color);
   text-decoration: none;
 }
