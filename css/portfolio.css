@@ -234,6 +234,34 @@ p {
   text-align: justify;
 }
 
+/* Contact Page */
+
+.contact-section {
+  padding: 160px 50px 0;
+}
+
+.contact-content {
+  margin-bottom: 70px;
+}
+
+.contact-section h1 {
+  margin-bottom: 0px;
+}
+
+.contact-section a {
+  color: var(--branding-color);
+  text-decoration: none;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+}
+
+.contact-section p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
 /* Media Query */
 
 @media (max-width: 900px) {
