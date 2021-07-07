@@ -285,7 +285,7 @@ p {
 .headshot {
   margin: 0 auto;
   width: 400px;
-  border: 10px solid white;
+  border-radius: 20px;
 }
 
 .travel-blog {
