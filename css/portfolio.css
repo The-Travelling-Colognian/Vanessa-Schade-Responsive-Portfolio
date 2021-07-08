@@ -275,7 +275,7 @@ footer {
 
 footer .contact-box {
   background: var(--subtle-color);
-  padding: 30px 120px;
+  padding: 30px 130px;
   border-radius: 10px;
 }
 
@@ -289,23 +289,60 @@ footer .email-link {
   font-size: 24px;
 }
 
-footer .email-link:hover {
+.footer .email-link:hover {
   color: var(--branding-color);
 }
 
-footer .social-links a {
-  margin: 0 20px;
-  color: var(--branding-color);
-  background: var(--subtle-color);
-  padding: 10px 14px;
+/* Social Media links */
+
+.social-media-links a {
+  border: 1px solid var(--branding-color);
   border-radius: 50%;
-  font-size: 18px;
+  color: var(--branding-color);
+  font-size: 25px;
+  margin: 30px 10px;
+  padding: 10px 18px;
   transition: all 100ms ease-in-out;
 }
 
-footer .social-links a:hover {
+.social-media-links a:hover {
+  background-color: var(--branding-color);
   color: white;
-  background: var(--branding-color);
+}
+
+/* Scroll-up button */
+
+.scroll-up-button {
+  font-size: 16px;
+  margin-bottom: 50px;
+  margin-top: 55px;
+  text-align: center;
+}
+
+.scroll-up-text {
+  color: black;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.scroll-up-text:hover {
+  color: black;
+}
+
+/* Website footer */
+
+.coder {
+  font-size: 16px;
+}
+
+.coder a {
+  text-decoration: none;
+  color: var(--branding-color);
+  font-weight: 500;
+}
+.coder a:hover {
+  text-decoration: underline;
+  color: var(--secondary-color);
 }
 
 /* Media Query */
