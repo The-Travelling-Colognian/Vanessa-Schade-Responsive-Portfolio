@@ -463,6 +463,35 @@ footer .email-link:hover {
     margin-top: 100px;
   }
 
+  .about-content {
+    text-align: center;
+    padding: 40px 0;
+  }
+
+  .education-section {
+    margin-bottom: -40px;
+  }
+
+  .education-section h4 {
+    font-size: 20px;
+  }
+
+  .education-section h5 {
+    font-size: 18px;
+  }
+
+  .education-section p {
+    line-height: 26px;
+  }
+
+  .skills {
+    margin-top: -13px;
+  }
+
+  .project-content {
+    margin-bottom: 20px;
+  }
+
   .contact-section h4 {
     font-size: 23px;
   }
