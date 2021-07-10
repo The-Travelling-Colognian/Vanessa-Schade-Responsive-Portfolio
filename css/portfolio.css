@@ -254,6 +254,11 @@ p {
   margin-bottom: 90px;
 }
 
+.shecodes-certificates,
+.ihk-certificates {
+  text-align: center;
+}
+
 /* Contact Page */
 
 .contact-section {
