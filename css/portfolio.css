@@ -463,7 +463,19 @@ footer .email-link:hover {
     margin-top: 100px;
   }
 
+  .contact-section h4 {
+    font-size: 23px;
+  }
+
   footer .email-link {
-    font-size: 16;
+    font-size: 18px;
+  }
+
+  .social-media-links {
+    font-size: 22px;
+  }
+
+  .scroll-up-button {
+    margin-top: 40px;
   }
 }
