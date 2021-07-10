@@ -239,6 +239,21 @@ p {
   text-align: justify;
 }
 
+/* Skills  and graduation */
+
+/* Skills */
+
+.skills-graduation-section {
+  text-align: center;
+}
+
+.skills-section {
+  border: 8px solid var(--subtle-color);
+  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 90px;
+}
+
 /* Contact Page */
 
 .contact-section {
@@ -414,7 +429,7 @@ footer .email-link:hover {
     margin-top: 100px;
   }
 
-  .email-link {
+  footer .email-link {
     font-size: 16;
   }
 }
