@@ -254,9 +254,45 @@ p {
   margin-bottom: 90px;
 }
 
+.skills-section .skills-header {
+  margin-bottom: 45px;
+}
+
+.skills-section,
+.certificate-section,
+.education-work-section {
+  margin-top: 70px;
+}
+
+.skills {
+  font-weight: 200;
+}
+
 .shecodes-certificates,
 .ihk-certificates {
   text-align: center;
+}
+
+/* Education and Work section */
+
+.education-section h5 {
+  font-size: 20px;
+}
+
+.education-content-style {
+  border-right: 3px solid var(--subtle-color);
+}
+
+.education-header {
+  margin-bottom: 50px;
+}
+
+.graduation-icon {
+  font-size: 30px;
+}
+
+.focus-areas p {
+  line-height: 18px;
 }
 
 /* Contact Page */
