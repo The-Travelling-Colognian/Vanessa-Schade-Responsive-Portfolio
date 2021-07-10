@@ -414,7 +414,7 @@ footer .email-link:hover {
     margin-top: 100px;
   }
 
-  footer .email-link {
+  .email-link {
     font-size: 16;
   }
 }
