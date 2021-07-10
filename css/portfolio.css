@@ -279,15 +279,12 @@ p {
   font-size: 20px;
 }
 
-.education-content-style {
-  border-right: 3px solid var(--subtle-color);
-}
-
 .education-header {
   margin-bottom: 50px;
 }
 
-.graduation-icon {
+.graduation-icon,
+.work-icon {
   font-size: 30px;
 }
 
