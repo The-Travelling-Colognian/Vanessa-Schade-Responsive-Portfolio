@@ -71,8 +71,12 @@ p {
   padding-left: 30px;
 }
 
+.nav a {
+  transition: all 100ms ease-in-out;
+}
+
 .active {
-  color: var(--branding-color);
+  color: var(--branding-color) !important;
 }
 
 /* Buttons */
