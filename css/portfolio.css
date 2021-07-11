@@ -76,7 +76,7 @@ p {
 }
 
 .active {
-  color: var(--branding-color);
+  color: var(--branding-color) !important;
 }
 
 /* Buttons */
