@@ -293,6 +293,16 @@ p {
   line-height: 18px;
 }
 
+.github-link {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+.github-link:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
 /* Contact Page */
 
 .contact-section {
