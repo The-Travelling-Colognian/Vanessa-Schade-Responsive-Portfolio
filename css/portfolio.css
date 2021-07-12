@@ -75,8 +75,9 @@ p {
   transition: all 100ms ease-in-out;
 }
 
-.active {
-  color: var(--branding-color) !important;
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: var(--branding-color);
 }
 
 /* Buttons */
