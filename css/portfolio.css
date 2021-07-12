@@ -307,6 +307,12 @@ p {
   text-decoration: underline;
 }
 
+/* Work Page */
+
+.project-section {
+  margin-top: 104px;
+}
+
 /* Contact Page */
 
 .contact-section {
