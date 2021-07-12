@@ -1,3 +1,5 @@
+/* Global Options and Styles */
+
 :root {
   --default-font-family: "Poppins", sans-serif;
   --branding-color: #00c2c2;
@@ -279,7 +281,7 @@ p {
   text-align: center;
 }
 
-/* Education and Work section */
+/* Education section */
 
 .education-section h5 {
   font-size: 20px;
